@@ -21,8 +21,9 @@ let handler  = async (m, { conn, usedPrefix }) => {
 ╠➥ *Uptime:* ${uptime}
 ║
 ╠═〘 DONASI 〙 ═
-╠➥ Gopay: 085713964963
-╠➥ Indosat: 085713964963
+╠➥ Gopay : 082119800783
+╠➥ DANA : 081223918622
+╠➥ OVO : 082119800783
 ║
 ╠═ Request? ${package.bugs.url}
 ╠═ Official Group *${conn.user.name}* :
