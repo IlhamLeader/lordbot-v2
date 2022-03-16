@@ -1,27 +1,27 @@
 global.DeveloperMode = 'true' //true Or false
-global.linkGC = ['https://chat.whatsapp.com/LE1YcNgtYhHEAmELFS58Sv']
+global.linkGC = ['https://chat.whatsapp.com/FGSg220goxHJXvl5g06KWK']
 global.Owner = {
   // use the phone number with the country code, for example Indonesia '62' America '1' etc
   '6281223918622': { // put your number here
-    name: 'Riyoofc',
+    name: 'Riyoofc (Owner)',
     isDev: true, // if true this number will send if bot have bug and developer mode true
     isReport: true, // if true this number will send if user use command /report or /join
     isCreator: true // if true this number will send if user use command /owner or /creator
   },
   '6281223918622': { // put your number here
-    name: 'Riyoofc',
+    name: 'Riyoofc (Owner)',
     isDev: true,
     isReport: true, // if true this number will send if user use command /report or /join
     isCreator: true // if true this number will send if user use command /owner or /creator
   },
-  '6281223918622': { // put your number here
-    name: 'Riyoofc',
+  '6282119800783': { // put your number here
+    name: 'Lolibot (Bot)',
     isDev: true, // if true this number will send if bot have bug and developer mode true
     isReport: true, // if true this number will send if user use command /report or /join
     isCreator: true // if true this number will send if user use command /owner or /creator
   },
-  '6281223918622': {
-    name: 'Riyoofc',
+  '6282119800783': {
+    name: 'Loli Botz',
     isReport: true, // if true this number will send if user use command /report or /join
     isCreator: true // if true this number will send if user use command /owner or /creator
   },
