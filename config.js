@@ -3,13 +3,13 @@ global.linkGC = ['https://chat.whatsapp.com/LE1YcNgtYhHEAmELFS58Sv']
 global.Owner = {
   // use the phone number with the country code, for example Indonesia '62' America '1' etc
   '6281223918622': { // put your number here
-    name: 'ᴹᴿᤎ RiyoOfcི ࿇ (Creator Botz)',
+    name: 'ᴹᴿᤎ RiyoOfcི ࿇ (owner)',
     isDev: true, // if true this number will send if bot have bug and developer mode true
     isReport: true, // if true this number will send if user use command /report or /join
     isCreator: true // if true this number will send if user use command /owner or /creator
   },
   '6281223918622': { // put your number here
-    name: 'ᴹᴿᤎ RiyoOfcི ࿇ (Creator2 Botz)',
+    name: 'ᴹᴿᤎ RiyoOfcི ࿇ (Owner)',
     isDev: true,
     isReport: true, // if true this number will send if user use command /report or /join
     isCreator: true // if true this number will send if user use command /owner or /creator
